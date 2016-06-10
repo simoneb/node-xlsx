@@ -1,5 +1,5 @@
 {
-  "name": "node-xlsx",
+  "name": "node-xlsx-with-formatting",
   "author": "Olivier Louvignes <olivier@mg-crea.com>",
   "version": "0.7.1",
   "description": "NodeJS Excel files parser & builder",
