@@ -1,4 +1,4 @@
-import XLSX from 'xlsx';
+import XLSX from 'xlsx-style';
 
 const isBoolean = maybeBoolean => typeof maybeBoolean === 'boolean';
 const isNumber = maybeNumber => typeof maybeNumber === 'number';

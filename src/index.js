@@ -1,5 +1,4 @@
-
-import XLSX from 'xlsx';
+import XLSX from 'xlsx-style';
 import {buildSheetFromMatrix, isString} from './helpers';
 import Workbook from './workbook';
 
