@@ -10,7 +10,7 @@
     "test:watch": "npm run test -- --watch",
     "test:coverage": "nyc --reporter=lcov npm test -- --reporter dot && nyc report",
     "lint": "eslint src/",
-    "compile": "rimraf lib/*; babel src/ -d lib/ -s",
+    "compile": "rimraf lib/* && babel src/ -d lib/ -s",
     "compile:watch": "npm run compile -- -w",
     "prepublish": "npm run compile"
   },
