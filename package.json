@@ -1,7 +1,7 @@
 {
   "name": "node-xlsx-style",
   "author": "Olivier Louvignes <olivier@mg-crea.com>",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "NodeJS Excel files parser & builder",
   "main": "lib/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "repository": "github:mgcrea/node-xlsx",
   "license": "Apache-2.0",
   "dependencies": {
-    "xlsx-style": "^0.8.13"
+    "xlsx-style": "0.8.13"
   },
   "devDependencies": {
     "babel-cli": "^6.8.0",
